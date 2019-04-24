@@ -1,0 +1,13 @@
+# Ignore the cache
+*__pycache__/
+
+.DS_Store
+
+# folder just used for temporary storage
+tmp/
+
+# folder for speech waveform recordings
+recordings
+
+# Binary file
+.pyc
